@@ -1,4 +1,7 @@
-##Privacy policy
+
+## Shake Alarm Clock: Privacy policy
+
+Welcome to the Shake Alarm Clock app for Android!
 
 This is an open source Android app developed by Puran Singh.
 This application does not use any permission. No user data is collected.
